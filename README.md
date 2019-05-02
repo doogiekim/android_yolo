@@ -1,4 +1,4 @@
-# Class Diagram of the android_yolo application
+# Architecture Description of android_yolo
 ![Class Diagram](images/class_diagram.png)
 
 # References
