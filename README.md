@@ -1,7 +1,7 @@
-# YAD2K Android Version
+# android_yolo: YAD2K Android Version
 
-## Introduction
-Android application detects objects from camera preview powered by YAD2K tensorflow model.
+## Introduction of the project
+Android application detecting objects from camera preview, powered by YAD2K tensorflow model.
 
 ## Requirements
 * Android Studio
